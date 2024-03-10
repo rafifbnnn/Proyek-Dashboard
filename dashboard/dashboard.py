@@ -37,7 +37,7 @@ handle_outliers(day_df, 'windspeed')
 handle_outliers(hour_df, 'hum')
 handle_outliers(hour_df, 'windspeed')
 
-st.image("dhasboard/pokemon-bike.png", use_column_width=True)
+st.image("dashboard/pokemon-bike.png", use_column_width=True)
 st.header("FBN Bike Sharing Dashboard :sparkle:")
 
 tab1, tab2 = st.tabs(["Average Rentals per Day", "Relation between Temperature, Humidity and Rentals"])
