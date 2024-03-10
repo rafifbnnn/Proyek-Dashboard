@@ -84,7 +84,7 @@ with tab1:
                  Sementara itu, rata-rata penyewaaan sepeda yang rendah berada pada waktu orang-orang sedang beristirahat.
                  ''')
 
-    st.write("Psst, you can actively interact with the plot ;)", fontsize=14)
+    st.write("Psst, you can actively interact with the plot ;)")
     
 with tab2:
     st.subheader("Temperature (Left) vs Humidity (Right)")
