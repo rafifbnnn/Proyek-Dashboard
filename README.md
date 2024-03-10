@@ -2,8 +2,8 @@
 
 ## Setup environment
 ```
-conda create --name main_ds python=3.10.10
-conda activate main_ds
+python -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
