@@ -11,3 +11,6 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
+
+## Link Streamlit
+https://fbn-bike-sharing.streamlit.app/
